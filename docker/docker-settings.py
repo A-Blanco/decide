@@ -6,7 +6,7 @@ DATABASES = {
         'NAME': 'postgres',
         'USER': 'postgres',
         'PASSWORD' : 'postgres',
-        'HOST': 'decidedb',
+        'HOST': 'db',
         'PORT': 5432,
     }
 }
