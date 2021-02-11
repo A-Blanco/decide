@@ -15,3 +15,7 @@ install:
 script:
 - cd decide
 - ./manage.py test --keepdb
+
+branches:
+  only:
+  - master
